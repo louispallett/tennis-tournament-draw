@@ -7,14 +7,16 @@ function createTeams(groupA, groupB) {
     groupB.sort(() => Math.random() - 0.5);
   
     while (groupA.length > 0 && groupB.length > 0) {
+      //One player from groupA, one from groupB
       const playerA = groupA.shift();
-      const playerB = groupB.shift(); // Remove the first player from groupB
+      const playerB = groupB.shift();
       teamPairs.push([playerA, playerB]);
     }
   
     while (groupB.length > 1) {
-      const playerB1 = groupB.shift(); // Remove the first player from groupB
-      const playerB2 = groupB.shift(); // Remove the second player from groupB
+      // Remaining players from groupB matched
+      const playerB1 = groupB.shift(); 
+      const playerB2 = groupB.shift(); 
       teamPairs.push([playerB1, playerB2]);
     }
   
@@ -38,12 +40,3 @@ teams.forEach(pair => {
     console.log(playerA + ' and ' + playerB);
   }
 });
-
-// Jessica and Roman
-// Gurney and Lewis
-// Baldwin and Andy
-// Paul and Daniel
-// Samantha and John
-// Azam and Abdul
-// SimonR and Oliver
-// David and LucasN
