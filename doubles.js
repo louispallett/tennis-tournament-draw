@@ -1,7 +1,10 @@
 function createTeams(groupA, groupB) {
+
     const teamPairs = [];
-    groupA.sort(() => Math.random() - 0.5)  // Shuffle the players in groupA
-    groupB.sort(() => Math.random() - 0.5); // Shuffle the players in groupB
+
+    // Shuffle each group
+    groupA.sort(() => Math.random() - 0.5)  
+    groupB.sort(() => Math.random() - 0.5);
   
     while (groupA.length > 0 && groupB.length > 0) {
       const playerA = groupA.shift();

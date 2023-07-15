@@ -1,0 +1,18 @@
+Men's Singles: "Steve Bellamy", "Andy May", "Derek Mclauchlan", "John Sweet", "Norman Hui", "Louis Nicholson-Pallett", "John Moruzzi", "Lucas Richards", "Dave Young", "David Batten", "Guy Muggington", "Andrew Grant", "Simon Perkins", "Michael Clifford", "Bob Screen", "Simon Stent", "Marios Mitella", "Neil Wiley"
+
+Women's Singles: "Katie Robson", "Rachael Tonkin", "Claire Pugh", "Ewa Poniecka", "Barbara Baldock", "Milly Allen", "Laura Sinclair", "Louise Bessell", "Patty Mitchell"
+
+Men's Doubles:
+                groupA: "Steve Bellamy", "Derek Mclauchlan", "Lucas Richards", "Simon Perkins", "Simon Stent", "Neil Wiley"
+                groupB: "John Sweet", "Louis Nicholson-Pallett", "Jonathan Harwood", "Dave Young", "David Perryman", "Guy Muggington", "Graham Baldock", "Andrew Grant", "Derek Keefe", "Paul Kendall", "Bob Screen", "Kevin Mulvaney", "Marios Mitella", "Pete May"
+
+Women's Doubles: 
+                groupA: "Katie Robson", "Fliss Doyle", "Barbara Baldock", "Kerry Board", "Milly Allen", "Laura Sinclair"
+                groupB: "Rachael Tonkin", "Claire Pugh", "Odette Doyle", "Ann Page", "Kate Lamb", "Ali Birkett", "Sally Hunter", "Bronwen Havers", "Jane Shergold", "Jane Singleton", "Louise Bessell", "Christine Thompson", "Emma Askew", "Lauren Askew"
+
+Mixed Doubles: 
+                WgroupA: "Katie Robson", "Fliss Doyle," "Barbara Baldock", "Kerry Board", "Milly Allen", "Laura Sinclair"
+                MgroupB: "John Sweet", "Jonathan Harwood", "Dave Young", "David Perryman", "Guy Muggington", "Graham Baldock", "Andrew Grant", "Derek Keefe", "Paul Kendall", "Bob Screen", "Kevin Mulvaney", "Marios Mitella", "Pete May"
+
+                MgroupA: "Steve Bellamy", "Lucas Richards", "Simon Stent"
+                WgroupB: "Rachael Tonkin", "Claire Pugh", "Odette Doyle", "Ann Page", "Kate Lamb", "Ali Birkett ", "Sally Hunter", "Caroline Perkins", "Louise Bessell", "Amanda Hawkins"
